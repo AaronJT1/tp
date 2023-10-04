@@ -112,6 +112,8 @@
         "coming-soon": "[coming soon]",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
+        "list-all-patients-list": "List All Patients: list",
+        "delete-a-patient-delete": "Delete a Patient: delete",
         "adding-a-person-add": "Adding a person: add",
         "listing-all-persons-list": "Listing all persons : list",
         "editing-a-person-edit": "Editing a person : edit",
@@ -159,6 +161,22 @@
       "src": "team/longnguyentan.md",
       "headings": {
         "long-s-project-portfolio-page": "Long's Project Portfolio Page",
+        "project-advanced-and-amp-efficient-a-and-amp-e": "Project: Advanced&amp;Efficient (A&amp;E)"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/thienmy0.md",
+      "headings": {
+        "thien-my-s-project-portfolio-page": "Thien My's Project Portfolio Page",
+        "project-advanced-and-amp-efficient-a-and-amp-e": "Project: Advanced&amp;Efficient (A&amp;E)"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/wujy28.md",
+      "headings": {
+        "jingya-s-project-portfolio-page": "Jingya's Project Portfolio Page",
         "project-advanced-and-amp-efficient-a-and-amp-e": "Project: Advanced&amp;Efficient (A&amp;E)"
       },
       "headingKeywords": {}
