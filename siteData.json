@@ -51,6 +51,7 @@
         "storage-component": "Storage component",
         "common-classes": "Common classes",
         "implementation": "Implementation",
+        "add-patient-feature": "Add patient feature",
         "view-patient-feature": "View patient feature",
         "edit-record-feature": "Edit Record feature",
         "assign-department-feature": "Assign department feature",
