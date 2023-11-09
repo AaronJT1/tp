@@ -41,6 +41,7 @@
       "title": "Developer Guide",
       "headings": {
         "advanced-and-amp-efficient-a-and-amp-e-developer-guide": "Advanced&amp;Efficient (A&amp;E) Developer Guide",
+        "overview": "Overview",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -72,7 +73,8 @@
         "explanation": "Explanation:",
         "saving-data": "Saving data",
         "explanation-2": "Explanation:",
-        "class-record-json-storage-format": "Class Record JSON Storage Format"
+        "class-record-json-storage-format": "Class Record JSON Storage Format",
+        "appendix-planned-enhancements": "Appendix: Planned Enhancements"
       },
       "headingKeywords": {}
     },
@@ -140,6 +142,7 @@
         "editing-the-data-file": "Editing the data file",
         "faq": "FAQ",
         "known-issues": "Known issues",
+        "when-using-multiple-screens-if-you-move-the-application-to-a-secondary-screen-and-later-switch-to-using-only-the-primary-screen-the-gui-will-open-off-screen-the-remedy-is-to-delete-the-preferences-json-file-created-by-the-application-before-running-the-application-again": "When using multiple screens, if you move the application to a secondary screen, and later switch to using only the\nprimary screen, the GUI will open off-screen. The remedy is to delete the preferences.json file created by the\napplication before running the application again.\n\n",
         "command-summary": "Command summary",
         "appendix-departments": "Appendix: Departments"
       },
@@ -158,7 +161,16 @@
       "headings": {
         "aaronjt1-s-project-portfolio-page": "AaronJT1's Project Portfolio Page",
         "project-advanced-and-amp-efficient-a-and-amp-e": "Project: Advanced&amp;Efficient (A&amp;E)",
-        "contribution": "Contribution"
+        "contribution": "Contribution",
+        "features-implemented": "Features implemented",
+        "view-feature-119": "View Feature #119",
+        "enhancement-to-existing-features": "Enhancement to existing features:",
+        "enhanced-add-feature": "Enhanced Add Feature",
+        "enhanced-exception-error-messages-for-users": "Enhanced exception / error messages for users",
+        "enhanced-modelmanager-128": "Enhanced ModelManager #128",
+        "enhanced-testing-utilities": "Enhanced testing utilities",
+        "contributions-to-team-based-task": "Contributions to team-based task:",
+        "review-mentoring-contributions": "Review / mentoring contributions:"
       },
       "headingKeywords": {}
     },
