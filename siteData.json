@@ -57,7 +57,7 @@
         "delete-patient-feature": "Delete patient feature",
         "edit-patient-feature": "Edit patient feature",
         "view-patient-feature": "View patient feature",
-        "edit-record-feature": "Edit Record feature",
+        "edit-record-feature": "Edit record feature",
         "assign-department-feature": "Assign department feature",
         "sort-feature": "Sort feature",
         "undo-redo-feature": "Undo/redo feature",
@@ -125,14 +125,10 @@
       "headings": {
         "advanced-and-amp-efficient-a-and-amp-e-user-guide": "Advanced&amp;Efficient (A&amp;E) User Guide",
         "table-of-contents": "Table of Contents",
-        "using-this-guide": "Using this guide",
-        "quick-start": "Quick start",
-        "getting-to-know-a-and-amp-e": "Getting to know A&amp;E",
+        "using-this-guide": "Using This Guide",
+        "quick-start": "Quick Start",
+        "getting-to-know-a-and-amp-e": "Getting to Know A&amp;E",
         "user-interface": "User Interface",
-        "command-bar": "Command Bar",
-        "console": "Console",
-        "patient-list-panel": "Patient List Panel",
-        "patient-record-panel": "Patient Record Panel",
         "features": "Features",
         "prefix-summary": "Prefix Summary",
         "viewing-help-help": "Viewing help: help",
@@ -153,7 +149,7 @@
         "editing-the-data-file": "Editing the data file",
         "faq": "FAQ",
         "known-issues": "Known issues",
-        "command-summary": "Command summary",
+        "command-summary": "Command Summary",
         "glossary": "Glossary",
         "appendix-departments": "Appendix: Departments"
       },
@@ -194,7 +190,13 @@
       "src": "team/longnguyentan.md",
       "headings": {
         "long-s-project-portfolio-page": "Long's Project Portfolio Page",
-        "project-advanced-and-amp-efficient-a-and-amp-e": "Project: Advanced&amp;Efficient (A&amp;E)"
+        "project-advanced-and-amp-efficient-a-and-amp-e": "Project: Advanced&amp;Efficient (A&amp;E)",
+        "new-features": "New Features",
+        "enhancement-to-existing-features": "Enhancement to existing features:",
+        "contributions-to-the-ug": "Contributions to the UG:",
+        "contributions-to-the-dg": "Contributions to the DG:",
+        "contributions-to-team-based-tasks": "Contributions to team-based tasks:",
+        "review-mentoring-contributions": "Review/mentoring contributions:"
       },
       "headingKeywords": {}
     },
